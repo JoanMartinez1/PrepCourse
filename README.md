@@ -1,1 +1,1 @@
-# PrepCourse
+Este es un projecto de prueba sobre cómo crear un reepositorio y clonarlo deesde github a mi PC
